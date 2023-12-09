@@ -3,7 +3,9 @@
 Sistema para lectura y transformación de los archivos del TREP para permitir a cualquier persona poder obtener los resultados sin intervención humana.
 
 Autor: José Luis Chávez del Cid
+
 Licencia: MIT
+
 Fecha Publicación Inicial: 9/Diciembre/2023
 
 ## Definiciones
