@@ -8,6 +8,7 @@
 	<ItemGroup>
 		<PackageReference Include="ClosedXML" Version="0.102.0" />
 		<PackageReference Include="Humanizer.Core.es" Version="2.14.1" />
+		<PackageReference Include="System.Drawing.Common" Version="8.0.0" />
 	</ItemGroup>
 
 </Project>

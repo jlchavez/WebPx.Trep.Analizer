@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPx.Trep.Exporter", "WebP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPx.Trep.OnlineViewer", "WebPx.Trep.OnlineViewer\WebPx.Trep.OnlineViewer.csproj", "{3B6C583E-069E-4164-A59F-8E1A7D973E94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E39B65D5-80BC-4F52-A86A-7240B462A767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3B6C583E-069E-4164-A59F-8E1A7D973E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B6C583E-069E-4164-A59F-8E1A7D973E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B6C583E-069E-4164-A59F-8E1A7D973E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39B65D5-80BC-4F52-A86A-7240B462A767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39B65D5-80BC-4F52-A86A-7240B462A767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39B65D5-80BC-4F52-A86A-7240B462A767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39B65D5-80BC-4F52-A86A-7240B462A767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
